@@ -1,0 +1,22 @@
+.size{
+    height: 2rem;
+    width: 2rem;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    font-weight: 600;
+}
+
+.p-details{
+    font-size: 1.3rem;
+    font-weight: 501;
+}
+
+#product-container{
+    display: none;
+}
+/* .control-botton{
+    color: black;
+    background-color: rgb(34, 32, 32);
+} */
